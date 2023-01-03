@@ -135,3 +135,22 @@ h2 {
 .pricing-price {
   color: #000000;
 }
+
+
+
+/* Call to action */
+
+#cta {
+background-color: #ff4c68;
+text-allign: center;
+}
+
+h3 {
+font-family: Montserrat;
+padding: 15% 20%;
+}
+
+.button-cta {
+padding: 0% 30% 20%;
+}
+
