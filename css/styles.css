@@ -47,7 +47,6 @@ h1 {
 .iphone-image {
   transform: rotate(25deg);
   width: 20%;
-  position: absolute;
 }
 
 /* Section 2 */
